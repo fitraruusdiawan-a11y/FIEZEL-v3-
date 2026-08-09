@@ -1,0 +1,241 @@
+{
+  "present_simple": [
+    [
+      "She ___ to work by train every day.",
+      [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      1,
+      "Subject-verb agreement in present simple."
+    ],
+    [
+      "They ___ enough time to finish the task.",
+      [
+        "has",
+        "having",
+        "have",
+        "had"
+      ],
+      2,
+      "Use have with plural subjects."
+    ],
+    [
+      "The museum ___ at nine every morning.",
+      [
+        "open",
+        "opens",
+        "opened",
+        "opening"
+      ],
+      1,
+      "Third-person singular takes -s in the present simple."
+    ]
+  ],
+  "past_simple": [
+    [
+      "We ___ the report yesterday.",
+      [
+        "finish",
+        "finished",
+        "finishing",
+        "have finish"
+      ],
+      1,
+      "Finished past actions normally use the past simple."
+    ],
+    [
+      "He ___ home after the meeting.",
+      [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      2,
+      "Use the past form went for a completed past event."
+    ]
+  ],
+  "present_perfect": [
+    [
+      "I ___ this book three times.",
+      [
+        "read",
+        "have read",
+        "am reading",
+        "readed"
+      ],
+      1,
+      "Present perfect links a past action to the present experience."
+    ],
+    [
+      "She ___ here since 2022.",
+      [
+        "lives",
+        "lived",
+        "has lived",
+        "is live"
+      ],
+      2,
+      "Use has lived with since for a continuing situation."
+    ]
+  ],
+  "future": [
+    [
+      "By next June, they ___ the project.",
+      [
+        "complete",
+        "completed",
+        "will have completed",
+        "are complete"
+      ],
+      2,
+      "Future perfect describes an action completed before a future point."
+    ]
+  ],
+  "conditionals": [
+    [
+      "If I ___ more time, I would join the course.",
+      [
+        "have",
+        "had",
+        "will have",
+        "am having"
+      ],
+      1,
+      "Second conditional uses past simple in the if-clause."
+    ]
+  ],
+  "modals": [
+    [
+      "You ___ wear a helmet when riding this bike.",
+      [
+        "should",
+        "would",
+        "might have",
+        "could have"
+      ],
+      0,
+      "Should expresses advice or recommendation."
+    ]
+  ],
+  "articles": [
+    [
+      "She bought ___ umbrella because it was raining.",
+      [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      1,
+      "Use an before a vowel sound in umbrella."
+    ]
+  ],
+  "prepositions": [
+    [
+      "The meeting starts ___ Monday.",
+      [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      1,
+      "Use on with days and dates."
+    ]
+  ],
+  "gerunds": [
+    [
+      "He enjoys ___ in the evening.",
+      [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      2,
+      "Enjoy is followed by a gerund (-ing form)."
+    ]
+  ],
+  "passive": [
+    [
+      "The bridge ___ last year.",
+      [
+        "built",
+        "was built",
+        "is build",
+        "has build"
+      ],
+      1,
+      "Past passive uses was/were + past participle."
+    ]
+  ],
+  "reported": [
+    [
+      "She said that she ___ tired.",
+      [
+        "is",
+        "was",
+        "will",
+        "has"
+      ],
+      1,
+      "Reported speech commonly backshifts present to past after a past reporting verb."
+    ]
+  ],
+  "relatives": [
+    [
+      "The book ___ I borrowed was excellent.",
+      [
+        "who",
+        "where",
+        "that",
+        "when"
+      ],
+      2,
+      "That can introduce a defining relative clause for a thing."
+    ]
+  ],
+  "inversion": [
+    [
+      "Hardly ___ the train when it began to rain.",
+      [
+        "I had boarded",
+        "had I boarded",
+        "I boarded",
+        "did I board"
+      ],
+      1,
+      "Negative adverbial inversion places the auxiliary before the subject."
+    ]
+  ],
+  "advanced_modals": [
+    [
+      "He ___ have forgotten the appointment; he never arrived.",
+      [
+        "must",
+        "should",
+        "would",
+        "can"
+      ],
+      0,
+      "Must have + past participle expresses a strong deduction about the past."
+    ]
+  ],
+  "parallelism": [
+    [
+      "The course aims to improve writing, speaking, and ___.",
+      [
+        "read",
+        "reading",
+        "to read",
+        "reads"
+      ],
+      1,
+      "Items in a series should use parallel grammatical forms."
+    ]
+  ]
+}
